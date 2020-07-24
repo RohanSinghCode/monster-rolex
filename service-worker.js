@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/moster-rolex/precache-manifest.c5679716e7dde55560a161d95e11a4fe.js"
+  "/moster-rolex/precache-manifest.e12f6fd58bb763671a18843f5712b0c3.js"
 );
 
 self.addEventListener('message', (event) => {
