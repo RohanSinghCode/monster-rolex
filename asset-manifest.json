@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moster-rolex/static/css/main.7cf3f106.chunk.css",
+    "main.js": "/moster-rolex/static/js/main.85edbb5d.chunk.js",
+    "main.js.map": "/moster-rolex/static/js/main.85edbb5d.chunk.js.map",
+    "runtime-main.js": "/moster-rolex/static/js/runtime-main.1cb5792c.js",
+    "runtime-main.js.map": "/moster-rolex/static/js/runtime-main.1cb5792c.js.map",
+    "static/js/2.9fc7c5d0.chunk.js": "/moster-rolex/static/js/2.9fc7c5d0.chunk.js",
+    "static/js/2.9fc7c5d0.chunk.js.map": "/moster-rolex/static/js/2.9fc7c5d0.chunk.js.map",
+    "index.html": "/moster-rolex/index.html",
+    "precache-manifest.c5679716e7dde55560a161d95e11a4fe.js": "/moster-rolex/precache-manifest.c5679716e7dde55560a161d95e11a4fe.js",
+    "service-worker.js": "/moster-rolex/service-worker.js",
+    "static/css/main.7cf3f106.chunk.css.map": "/moster-rolex/static/css/main.7cf3f106.chunk.css.map",
+    "static/js/2.9fc7c5d0.chunk.js.LICENSE.txt": "/moster-rolex/static/js/2.9fc7c5d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cb5792c.js",
+    "static/js/2.9fc7c5d0.chunk.js",
+    "static/css/main.7cf3f106.chunk.css",
+    "static/js/main.85edbb5d.chunk.js"
+  ]
+}
